@@ -3,7 +3,7 @@
 ## Description
 ```
 This project is a siple game. Rules:
-You're getting three numbers and have to gues (by clicking on correct rectangle) what color in RGB syntax they represent.
+You're getting three numbers and have to guess (by clicking on correct rectangle) what color in RGB syntax they represent.
 Hint RGB stands for Red Green Blue.
 ```
 
